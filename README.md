@@ -1,7 +1,7 @@
 
 # product-service
 
-![CI](https://github.com/kase2228/product-service/actions/workflows/ci.yml/badge.svg)
+[![CI](https://github.com/kase2228/product-service/actions/workflows/ci.yml/badge.svg)](https://github.com/kase2228/product-service/actions/workflows/ci.yml)
 
 A RESTful product microservice built with Spring Boot 3.
 
